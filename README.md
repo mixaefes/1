@@ -1,1 +1,1 @@
- https://mixaefes.github.io/1/cv
+https://mixaefes.github.io/1/cv
