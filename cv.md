@@ -12,7 +12,7 @@ Informational Technology, Management Information Systems, Electrotechnical Facul
 ### LANGUAGES
 * Russian, Belarusian (native languages)  
 * English (B1) 
-*  Hebrew (סיימתי אולפן א)
+* Hebrew (סיימתי אולפן א)
 ### TECHNICAL SKILLS   
 Java, Kotlin, Android Studio, SQL, XML, Git, OBS.   
 ### INTERESTS    
