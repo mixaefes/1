@@ -1,1 +1,1 @@
-https://mixaefes.github.io/rsschool-cv/cv
+https://mixaefes.github.io/1/cv
